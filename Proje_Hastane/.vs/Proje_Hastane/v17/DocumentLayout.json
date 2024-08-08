@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\mcana\\desktop\\proje_hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\mcana\\Desktop\\Proje_Hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\mcana\\Desktop\\Proje_Hastane\\proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\mcana\\Desktop\\Proje_Hastane\\proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9276BB80-41C8-4862-8272-EDB6E4CACB52}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDoktorBilgiDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAMwDIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:06:17.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:02:58.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDoktorDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:41:26.572Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDoktorDetay.cs",
+              "DocumentMoniker": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\mcana\\Desktop\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAMwD8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:43:12.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
